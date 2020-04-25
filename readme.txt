@@ -1,2 +1,2 @@
-Git is a free software
+Git is a free software GPL.
 Git is a great tool
